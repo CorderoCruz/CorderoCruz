@@ -19,3 +19,4 @@ Languages and frameworks I have worked w/
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=corderocruz&show_icons=true&theme=dark"/>
+f
