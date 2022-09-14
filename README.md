@@ -8,4 +8,4 @@ Quick link to my porfolio!
  
 Languages and frameworks I have worked w/
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+<img src="https://github-readme-stats.vercel.app/api?username=corderocruz&show_icons=true&theme=dark"/>
