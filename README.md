@@ -15,3 +15,4 @@ Languages and frameworks I have worked w/
 
 <img src="https://github-readme-stats.vercel.app/api?username=corderocruz&show_icons=true&theme=dark"/>
 
+[Resume.pdf](https://github.com/CorderoCruz/CorderoCruz/files/9563145/Resume.pdf)
