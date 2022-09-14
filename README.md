@@ -4,7 +4,9 @@
 
 🌱 I’m currently learning how to use MongoDB and mongoose for databases.
  
-Checkout Mmy Portfolio!
+[Checkout My Portfolio!](https://cruz-cordero.herokuapp.com/)
+
+[Download My Resume!](https://github.com/CorderoCruz/CorderoCruz/files/9563145/Resume.pdf)
  
 Languages and frameworks I have worked w/
 
@@ -14,5 +16,3 @@ Languages and frameworks I have worked w/
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=corderocruz&show_icons=true&theme=dark"/>
-
-[Resume.pdf](https://github.com/CorderoCruz/CorderoCruz/files/9563145/Resume.pdf)
