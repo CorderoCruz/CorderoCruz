@@ -8,12 +8,11 @@ Quick link to my porfolio!
  
 Languages and frameworks I have worked w/
 
-<img height=50 color=blue src="https://user-images.githubusercontent.com/105164264/190065179-ff66b65e-84e9-4048-a394-e64cbd79dcb0.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height=50 src="https://user-images.githubusercontent.com/105164264/190065179-ff66b65e-84e9-4048-a394-e64cbd79dcb0.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=corderocruz&show_icons=true&theme=dark"/>
