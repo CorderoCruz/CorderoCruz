@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning how to use MongoDB and mongoose for databases.
  
-Quick link to my porfolio! 
+Checkout Mmy Portfolio!
  
 Languages and frameworks I have worked w/
 
