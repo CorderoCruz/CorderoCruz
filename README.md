@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Cruz Cordero. Nice to meet you!
 
-🔭 I’m currently working on developing my skills as a web developer at UCR Coding Bootcamp.
+🔭 Hello, my name is Cruz Cordero, but if you didn't know by now, I like to go by Cruzy. I am currently enrolled in UCR's Extension Coding Bootcamp. I am learning more and more by the day My goal for the future is to become a software engineer in hopes of workin on something that would impact the lives of some people. I have always had the curiosity to try and learn coding and trust me when I say this, it is not an easy task. I enjoy what I am doing now and would love to continue doing it.
 
 🌱 I’m currently learning how to use MongoDB and mongoose for databases.
  
