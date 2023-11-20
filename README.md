@@ -6,7 +6,7 @@
  
 [Checkout My Portfolio!](https://cruz-cordero.herokuapp.com/)
 
-[Download My Resume!](https://github.com/CorderoCruz/CorderoCruz/files/9695540/Cruz_Cordero_Leon_-_Software_Developer.pdf)
+[Download My Resume!](https://github.com/CorderoCruz/CorderoCruz/files/13418976/Cruz.Cordero.Software.Engineer.Final.docx)
  
 Languages and frameworks I have worked w/
 
