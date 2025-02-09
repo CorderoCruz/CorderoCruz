@@ -8,6 +8,5 @@ export class HeaderService {
 
   public updateNavbar() {
     this.smNavbarActive.update((bool) => !bool);
-    console.log(this.smNavbarActive());
   }
 }

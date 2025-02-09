@@ -3,6 +3,7 @@
 @import "bootstrap/scss/mixins";
 
 :host {
+  z-index: 10000000;
   @include media-breakpoint-up("md") {
     display: none;
   }

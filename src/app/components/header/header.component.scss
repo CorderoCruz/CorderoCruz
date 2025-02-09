@@ -3,8 +3,8 @@
 @import "bootstrap/scss/mixins";
 
 .heading-container {
-  z-index: 100;
-  background-color: white;
+  z-index: 10000;
+  background-color: rgba(255, 255, 255, 0);
   color: rgb(0, 0, 0);
 
   p {

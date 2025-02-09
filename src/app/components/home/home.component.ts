@@ -5,8 +5,10 @@ import { HeaderComponent } from "../header/header.component";
   standalone: true,
   selector: "app-home",
   imports: [HeaderComponent],
+  styleUrls: [`./home.component.scss`],
   template: `
-    <div class="w-100">
+    <div class="background-container"></div>
+    <div>
       <app-header class="py-2"></app-header>
     </div>
   `,

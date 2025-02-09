@@ -1,16 +1,19 @@
-import { TestBed } from '@angular/core/testing';
+import { TestBed } from "@angular/core/testing";
 
-import { HeaderService } from './header.service';
+import { HeaderService } from "./header.service";
 
-describe('HeaderService', () => {
+describe("HeaderService", () => {
   let service: HeaderService;
 
   beforeEach(() => {
-    TestBed.configureTestingModule({});
     service = TestBed.inject(HeaderService);
   });
 
-  it('should be created', () => {
-    expect(service).toBeTruthy();
+  it("should update navbar status", () => {
+    expect(service.smNavbarActive()).toBeFalsy();
+    service.updateNavbar();
+    expect(service.smNavbarActive()).toBeTruthy();
+    service.updateNavbar();
+    expect(service.smNavbarActive()).toBeFalsy();
   });
 });
