@@ -1,0 +1,13 @@
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/mixins";
+
+.heading-container {
+  z-index: 100;
+  background-color: white;
+  color: rgb(0, 0, 0);
+
+  p {
+    margin: 0;
+  }
+}

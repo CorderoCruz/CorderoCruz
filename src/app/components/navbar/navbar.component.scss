@@ -1,0 +1,20 @@
+.navbar {
+  min-width: 375px;
+  z-index: 100;
+  transition: 1s;
+  animation-name: slide-in;
+  background-color: white;
+  left: 0;
+  box-shadow: rgb(223, 223, 223) -1px 5px 5px;
+
+  &-active {
+    top: -20px;
+  }
+
+  &-inactive {
+    top: -240px;
+  }
+  p {
+    text-align: center;
+  }
+}
